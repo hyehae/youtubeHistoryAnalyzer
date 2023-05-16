@@ -1,0 +1,13 @@
+<div class="outer-cell mdl-cell mdl-cell--12-col mdl-shadow--2dp">
+    <div class="mdl-grid">
+        <div class="header-cell mdl-cell mdl-cell--12-col">
+            <p class="mdl-typography--title">YouTube<br></p>
+        </div>
+        <div class="content-cell mdl-cell mdl-cell--6-col mdl-typography--body-1">
+            <a href="https://www.youtube.com/watch?v=aGxnsVPw3r4">🛒주기적으로 털어줘야 하는 한국마트</a> 을(를) 시청했습니다.<br>
+            <a href="https://www.youtube.com/channel/UC6KwCU8Y8Uw4h_Q0ptLZkqw">해쭈 [HAEJOO]</a><br>2023. 5. 14. 오후 9:12:12 KST
+        </div>
+        <div class="content-cell mdl-cell mdl-cell--6-col mdl-typography--body-1 mdl-typography--text-right"></div>
+        <div class="content-cell mdl-cell mdl-cell--12-col mdl-typography--caption"><b>제품:</b><br>&emsp;YouTube<br><b>이 활동이 기록된 이유</b><br>&emsp;다음 설정이 켜져 있었으므로 이 활동이 내 Google 계정에 저장되었습니다.&nbsp;YouTube 시청 기록.&nbsp;<a href="https://myaccount.google.com/activitycontrols">여기</a>에서 이 설정을 제어할 수 있습니다.</div>
+    </div>
+</div>
